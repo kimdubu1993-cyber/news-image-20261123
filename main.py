@@ -19,7 +19,6 @@ def main() -> int:
     source = os.path.join(here, SOURCE_NAME)
     out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
     os.makedirs(out_dir, exist_ok=True)
-    os.chmod(out_dir, 0o755)
     dest = os.path.join(out_dir, OUTPUT_NAME)
 
     with open(source, "rb") as fh:
@@ -29,7 +28,6 @@ def main() -> int:
         return 1
 
     shutil.copyfile(source, dest)
-    os.chmod(dest, 0o644)
 
     with open(source, "rb") as fh:
         digest = hashlib.sha256(fh.read()).hexdigest()
