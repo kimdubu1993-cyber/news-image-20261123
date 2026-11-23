@@ -1,8 +1,8 @@
 # Sum up 23 November's world news in one image
 
-[![make.fun badge](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123)
-[![rank](https://make.fun/badge/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123)
-[![reward](https://make.fun/badge/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123)
+[![make.fun bounty](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123)
+[![live rank](https://make.fun/badge/news-image-20261123/kimdubu1993-cyber/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123)
+[![live reward](https://make.fun/badge/news-image-20261123/kimdubu1993-cyber/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123)
 
 Entry for the [make.fun bounty: Sum up 23 November's world news in one image](https://make.fun/bounty/news-image-20261123).
 
